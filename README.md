@@ -1,5 +1,5 @@
-#**PYTHON PARA INGNIERIA DE DE DATOS**
-
+**PYTHON PARA INGNIERIA DE DE DATOS**
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 El presente archivo contiene código de Python  tal y como lo utilizan realmente los ingenieros de datos en su trabajo, el cual va desde los conceptos básicos hasta los patrones listos para producción que se emplean en flujos de trabajo reales.
 
 
