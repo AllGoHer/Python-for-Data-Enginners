@@ -1,6 +1,6 @@
 # Python para Ingeniería de Datos
 
-Curso completo de Python desde cero, tal y como lo utilizan realmente los ingenieros de datos en su trabajo, el cual va desde los conceptos básicos hasta los patrones listos para producción que se emplean en flujos de trabajo reales.
+Archivo de códigos de Python, tal y como lo utilizan realmente los ingenieros de datos en su trabajo, el cual va desde los conceptos básicos hasta los patrones listos para producción que se emplean en flujos de trabajo reales.
 
 El presente archivo contiene el siguiente aprendizaje:
 
